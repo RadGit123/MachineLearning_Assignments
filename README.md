@@ -1,1 +1,3 @@
-MachineLearning_Assignments
+**MachineLearning_Assignments**
+
+*>Statistical Measures*
