@@ -13,3 +13,4 @@
  -Dataset: Cancer dataset ,Breast Cancer Wisconsin dataset,available in the sklearn library.
  -The task is to build and compare classification models to accurately predict whether a tumor is malignant (cancerous) or benign (non-cancerous) based on various features.
 
+*>Clustering Algorithm*.kmeans & Agglomerative for unsupervised datas.
