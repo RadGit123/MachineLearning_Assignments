@@ -16,4 +16,4 @@
 *>Clustering Algorithm*.kmeans & Agglomerative for unsupervised datas.
 
 *Project:pricing dynamics of a new market*
- Dataset: https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link
+ Dataset: https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link.
