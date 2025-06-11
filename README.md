@@ -14,3 +14,6 @@
  -The task is to build and compare classification models to accurately predict whether a tumor is malignant (cancerous) or benign (non-cancerous) based on various features.
 
 *>Clustering Algorithm*.kmeans & Agglomerative for unsupervised datas.
+
+*Project:pricing dynamics of a new market*
+ Dataset: https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link
